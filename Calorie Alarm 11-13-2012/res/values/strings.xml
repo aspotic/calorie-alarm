@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calorie Alarm</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="title_activity_main">Calorie Alarm</string>
+	    <string name="nav_charts">Charts</string>
+	    	<string name="daysButton">Days</string>
+	    	<string name="weeksButton">Weeks</string>
+	    	<string name="monthsButton">Months</string>
+	    
+	    
+	    <string name="nav_counter">Counter</string>
+	    	<string name="counterHeader">Today\'s Calorie Count</string>
+	    	<string name="counterText">0</string>
+	    	<string name="updateCountHeader">Update Count</string>
+	    	<string name="incrementCountButton">Add</string>
+	    	<string name="decrementCountButton">Subtract</string>
+	    
+	    <string name="nav_history">History</string>
+	    
+	    <string name="nav_alarms">Alarms</string>
+	    	<string name="alarmsHeader">Alarms will go here</string>
+	    	<string name="newAlarmButton">Add Alarm</string>
+	    	
+	    	
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+
+</resources>
